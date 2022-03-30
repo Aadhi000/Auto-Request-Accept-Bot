@@ -1,7 +1,7 @@
 {
     "name": "Auto Request Accept Bot",
     "description": "I am Simple Auto Request Accept Bot. Please Support",
-    "logo": "https://telegra.ph/file/1b837a8df2670b0097aaf.jpg",
+    "logo": "https://telegra.ph/file/8c0d6e69dab2b76786aa5.jpg",
     "keywords": [
         "Auto",
         "Approved",
@@ -15,11 +15,11 @@
     "success_url": "https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA",
     "env": {
         "API_ID": {
-            "description": "Your APP ID From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
+            "description": "Your APP ID",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
+            "description": "Your API Hash",
             "value": ""
         },
         "BOT_TOKEN": {
@@ -27,7 +27,7 @@
             "value": ""
         },
         "CHAT_ID": {
-            "description": "Working Group ID @MT_ID_Bot",
+            "description": "Group/Channel ID Which you are going to use this bot",
             "value": ""
         },
         "APPROVED_WELCOME": {
@@ -36,7 +36,7 @@
         },
         "APPROVED_WELCOME_TEXT": {
             "description": "APPROVED_WELCOME_TEXT : Welcome Text",
-            "value": "Hello {mention}\nWelcome To {title}\n\nYour Auto Approved"
+            "value": "**Hello {mention}\nWelcome To {title}\n\nYour Request Is Approved.**"
         }
     },
     "buildpacks": [
