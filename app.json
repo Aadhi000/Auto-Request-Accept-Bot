@@ -1,6 +1,7 @@
 {
-    "name": "Auto-Approved-Bot",
-    "description": "Iam Auto-Approved-Bot @pr0fess0r_99",
+    "name": "Auto Request Accept Bot",
+    "description": "I am Simple Auto Request Accept Bot. Please Support",
+    "logo": "https://telegra.ph/file/1b837a8df2670b0097aaf.jpg",
     "keywords": [
         "Auto",
         "Approved",
@@ -9,9 +10,9 @@
         "Link",
         "Bot"
     ],
-    "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-    "repository": "https://github.com/PR0FESS0R-99/Auto-Approved-Bot",
-    "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
+    "website": "https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA",
+    "repository": "https://github.com/Aadhi000/Auto-Request-Accept-Bot",
+    "success_url": "https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA",
     "env": {
         "API_ID": {
             "description": "Your APP ID From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
