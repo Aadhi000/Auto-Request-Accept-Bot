@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/Aadhi000/Auto-Request-Accept-Bot?style=social" />
-<img src="https://img.shields.io/github/forks/Aadhi000/Auto-Request-Accept-Bot?style=social" />
+<img src="https://img.shields.io/github/stars/tanvirosakil/Auto-Request-Accept-Bot?style=social" />
+<img src="https://img.shields.io/github/forks/tanvirosakil/Auto-Request-Accept-Bot?style=social" />
 </p>
 
 <b>𝙷𝙴𝙻𝙻𝙾...⚡</b>
